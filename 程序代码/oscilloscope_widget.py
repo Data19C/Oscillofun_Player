@@ -55,6 +55,8 @@ class OscilloscopeWidget(QWidget):
         painter = QPainter(self)
         painter.setRenderHint(QPainter.Antialiasing)
         painter.fillRect(self.rect(), QColor(0, 0, 0))
+        painter.setRenderHint(QPainter.Antialiasing, True)  # 抗锯齿
+        painter.setRenderHint(QPainter.SmoothPixmapTransform, True)
 
         width = self.width()
         height = self.height()
@@ -206,3 +208,4 @@ class OscilloscopeWidget(QWidget):
 
         center_x = width // 2
         center_y = height // 2
+
