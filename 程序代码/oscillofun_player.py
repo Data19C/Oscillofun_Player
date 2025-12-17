@@ -10,7 +10,7 @@ from PyQt5.QtGui import QFont
 
 from oscillofun_thread import OscillofunThread
 from oscilloscope_widget import OscilloscopeWidget
-from 程序代码.audio_player import AudioPlayer
+from audio_player import AudioPlayer
 
 
 class OscillofunPlayer(QMainWindow):
