@@ -1,0 +1,5 @@
+numpy>=2.3.5
+pygame>=2.6.1
+librosa>=0.11.0
+PyQt5>=5.15.11
+matplotlib>=3.10.8
