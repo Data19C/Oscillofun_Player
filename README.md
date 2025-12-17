@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/)
 [![PyQt5](https://img.shields.io/badge/PyQt5-5.15%2B-green)](https://pypi.org/project/PyQt5/)
-[![License](https://img.shields.io/badge/License-Apache%202.0-yellow)](LICENSE)
+[![License](https://img.shields.io/badge/License-Apache%202.0-yellow)](LICENSE-2.0.txt)
 
 > 将声音转化为视觉艺术 | 用代码重现示波器的诗意
 
@@ -119,5 +119,6 @@ Oscillofun_Player 是一个将音频信号转化为动态视觉艺术的Python�
 ---
 
 > **探索声音的视觉边界，发现音频与几何的美妙共鸣**
+
 
 *如果您觉得这个项目有趣，请给它一个⭐️支持！*~~~~
