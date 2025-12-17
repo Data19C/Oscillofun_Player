@@ -29,7 +29,7 @@ class OscillofunPlayer(QMainWindow):
     def init_ui(self):
         """初始化用户界面"""
         self.setWindowTitle("Oscillofun播放器 - X-Y模式")
-        self.setFixedSize(800, 800)  # 1:1 比例窗口
+        self.setFixedSize(720, 960)  # 3:4 比例窗口
 
         central_widget = QWidget()
         self.setCentralWidget(central_widget)
