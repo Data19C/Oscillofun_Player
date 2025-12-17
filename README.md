@@ -38,13 +38,13 @@ Oscillofun_Player 是一个将音频信号转化为动态视觉艺术的Python�
 `git clone https://github.com/Data19C/Oscillofun_Player.git`
    
 2. **切换目录：**
-`cd Oscillofun_Player/程序代码`
+`cd Oscillofun_Player`
 
 3. **安装Python依赖（推荐使用虚拟环境）：**
 `pip install -r requirements.txt`
 
 4. **运行应用程序**
-`python oscillofun_player.py`
+`python 程序代码/oscillofun_player.py`
 
 ### 使用指南
 
@@ -122,4 +122,5 @@ Oscillofun_Player 是一个将音频信号转化为动态视觉艺术的Python�
 
 
 *如果您觉得这个项目有趣，请给它一个⭐️支持！*~~~~
+
 
