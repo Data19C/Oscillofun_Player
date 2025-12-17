@@ -1,6 +1,6 @@
 # Oscillofun_Player: 音频可视化示波器
 
-[![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
 [![PyQt5](https://img.shields.io/badge/PyQt5-5.15%2B-green)](https://pypi.org/project/PyQt5/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-yellow)](LICENSE-2.0.txt)
 
@@ -29,7 +29,7 @@ Oscillofun_Player 是一个将音频信号转化为动态视觉艺术的Python�
 
 ### 环境要求
 
-- Python 3.7 或更高版本
+- Python 3.9 或更高版本
 - 支持音频输出的操作系统（Windows、macOS 或 Linux）
 
 ### 安装步骤
