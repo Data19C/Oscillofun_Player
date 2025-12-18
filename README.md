@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
 [![PyQt5](https://img.shields.io/badge/PyQt5-5.15%2B-green)](https://pypi.org/project/PyQt5/)
-[![License](https://img.shields.io/badge/License-Apache%202.0-yellow)](LICENSE-2.0.txt)
+[![License](https://img.shields.io/badge/License-Apache%202.0-yellow)](LICENSE)
 
 > 将声音转化为视觉艺术 | 用代码重现示波器的诗意
 
@@ -60,7 +60,7 @@ Oscillofun_Player 是一个将音频信号转化为动态视觉艺术的Python�
 | **程序代码/**            | 核心Python源代码，包含所有功能模块 |
 | **音频素材/**            | 用于测试和演示的音频文件集合 |
 | **截图展示/**            | 程序运行效果和界面截图 |
-| **LICENSE-2.0.txt**  | Apache 2.0开源许可证文件 |
+| **LICENSE**  | Apache 2.0开源许可证文件 |
 | **README.md**        | 项目详细介绍和使用说明 |
 | **requirements.txt** | Python包依赖列表，用于快速安装环境 |
 
@@ -108,7 +108,7 @@ Oscillofun_Player 是一个将音频信号转化为动态视觉艺术的Python�
 
 ## 📄 许可证
 
-本项目采用Apache许可证 - 查看[LICENSE](LICENSE-2.0.txt)文件了解详情。
+本项目采用Apache许可证 - 查看[LICENSE](LICENSE)文件了解详情。
 
 ## 🙏 致谢
 
